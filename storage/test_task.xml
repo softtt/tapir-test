@@ -1,0 +1,1035 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Ads target="Avito.ru" formatVersion="3">
+    <Ad>
+        <id>8139bb8b-9b96-11e6-80d6-00155d090500</id>
+        <Price>269000</Price>
+        <Kilometrage>108235</Kilometrage>
+        <Accident>Не битый</Accident>
+        <Make>Chery</Make>
+        <Model>Tiggo (T11)</Model>
+        <Year>2012</Year>
+        <BodyType>Внедорожник</BodyType>
+        <Doors>5</Doors>
+        <Color>Серебряный</Color>
+        <FuelType>Бензин</FuelType>
+        <EngineSize>1.6</EngineSize>
+        <Power>119</Power>
+        <Transmission>Механика</Transmission>
+        <DriveType>Передний</DriveType>
+        <WheelType>Левый</WheelType>
+        <PowerSteering>Гидро-</PowerSteering>
+        <ClimateControl>Кондиционер</ClimateControl>
+        <Interior>Ткань</Interior>
+        <InteriorOptions/>
+        <Heating>
+            <Option>Передних сидений</Option>
+            <Option>Зеркал</Option>
+            <Option>Заднего стекла</Option>
+        </Heating>
+        <PowerWindows>Передние и задние</PowerWindows>
+        <ElectricDrive>
+            <Option>Зеркал</Option>
+        </ElectricDrive>
+        <MemorySettings/>
+        <DrivingAssistance/>
+        <AntitheftSystem>
+            <Option>Иммобилайзер</Option>
+        </AntitheftSystem>
+        <Airbags>
+            <Option>Фронтальные</Option>
+        </Airbags>
+        <ActiveSafety>
+            <Option>Антиблокировка тормозов</Option>
+            <Option>Антипробуксовка</Option>
+        </ActiveSafety>
+        <Multimedia>
+            <Option>CD/DVD/Blu-ray</Option>
+            <Option>MP3</Option>
+            <Option>Радио</Option>
+            <Option>USB</Option>
+            <Option>AUX</Option>
+        </Multimedia>
+        <Wheels>16</Wheels>
+        <Owners>2</Owners>
+        <Images>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/8139bb8b-9b96-11e6-80d6-00155d090500_VSE_4521.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/8139bb8b-9b96-11e6-80d6-00155d090500_VSE_4519.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/8139bb8b-9b96-11e6-80d6-00155d090500_VSE_4522.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/8139bb8b-9b96-11e6-80d6-00155d090500_VSE_4523.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/8139bb8b-9b96-11e6-80d6-00155d090500_VSE_4524.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/8139bb8b-9b96-11e6-80d6-00155d090500_VSE_4520.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/8139bb8b-9b96-11e6-80d6-00155d090500_VSE_4533.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/8139bb8b-9b96-11e6-80d6-00155d090500_VSE_4532.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/8139bb8b-9b96-11e6-80d6-00155d090500_21.jpeg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/8139bb8b-9b96-11e6-80d6-00155d090500_VSE_4526.jpg"/>
+        </Images>
+    </Ad>
+    <Ad>
+        <id>ee5577b2-a27f-11e6-80d6-00155d090500</id>
+        <Price>679000</Price>
+        <Kilometrage>77949</Kilometrage>
+        <Accident>Не битый</Accident>
+        <Make>SsangYong</Make>
+        <Model>Actyon</Model>
+        <Year>2013</Year>
+        <BodyType>Внедорожник</BodyType>
+        <Doors>5</Doors>
+        <Color>Серебряный</Color>
+        <FuelType>Дизель</FuelType>
+        <EngineSize>2</EngineSize>
+        <Power>149</Power>
+        <Transmission>Автомат</Transmission>
+        <DriveType>Полный</DriveType>
+        <WheelType>Левый</WheelType>
+        <PowerSteering>Гидро-</PowerSteering>
+        <ClimateControl>Кондиционер</ClimateControl>
+        <Interior>Ткань</Interior>
+        <InteriorOptions/>
+        <Heating>
+            <Option>Передних сидений</Option>
+            <Option>Зеркал</Option>
+            <Option>Заднего стекла</Option>
+        </Heating>
+        <PowerWindows>Передние и задние</PowerWindows>
+        <ElectricDrive>
+            <Option>Зеркал</Option>
+        </ElectricDrive>
+        <MemorySettings/>
+        <DrivingAssistance>
+            <Option>Датчик света</Option>
+            <Option>Круиз-контроль</Option>
+            <Option>Бортовой компьютер</Option>
+        </DrivingAssistance>
+        <AntitheftSystem>
+            <Option>Центральный замок</Option>
+            <Option>Иммобилайзер</Option>
+        </AntitheftSystem>
+        <Airbags>
+            <Option>Боковые передние</Option>
+        </Airbags>
+        <ActiveSafety>
+            <Option>Антиблокировка тормозов</Option>
+            <Option>Курсовая устойчивость</Option>
+            <Option>Распред. тормозных усилий</Option>
+            <Option>Экстренное торможение</Option>
+        </ActiveSafety>
+        <Multimedia>
+            <Option>CD/DVD/Blu-ray</Option>
+            <Option>MP3</Option>
+            <Option>Радио</Option>
+            <Option>USB</Option>
+            <Option>AUX</Option>
+        </Multimedia>
+        <Wheels>16</Wheels>
+        <Owners>2</Owners>
+        <Images>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/ee5577b2-a27f-11e6-80d6-00155d090500_BKV_0032.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/ee5577b2-a27f-11e6-80d6-00155d090500_BKV_0033.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/ee5577b2-a27f-11e6-80d6-00155d090500_BKV_0044.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/ee5577b2-a27f-11e6-80d6-00155d090500_BKV_0045.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/ee5577b2-a27f-11e6-80d6-00155d090500_BKV_0046.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/ee5577b2-a27f-11e6-80d6-00155d090500_BKV_0031.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/ee5577b2-a27f-11e6-80d6-00155d090500_BKV_0041.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/ee5577b2-a27f-11e6-80d6-00155d090500_BKV_0042.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/ee5577b2-a27f-11e6-80d6-00155d090500_BKV_0034.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/ee5577b2-a27f-11e6-80d6-00155d090500_3.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/ee5577b2-a27f-11e6-80d6-00155d090500_BKV_0043.jpg"/>
+        </Images>
+    </Ad>
+    <Ad>
+        <id>90ca577b-b087-11e6-80de-00155d090500</id>
+        <Price>930000</Price>
+        <Kilometrage>46559</Kilometrage>
+        <Accident>Не битый</Accident>
+        <Make>Hyundai</Make>
+        <Model>Creta</Model>
+        <Year>2016</Year>
+        <BodyType>Внедорожник</BodyType>
+        <Doors>5</Doors>
+        <Color>Серый</Color>
+        <FuelType>Бензин</FuelType>
+        <EngineSize>1.6</EngineSize>
+        <Power>123</Power>
+        <Transmission>Механика</Transmission>
+        <DriveType>Передний</DriveType>
+        <WheelType>Левый</WheelType>
+        <PowerSteering>Гидро-</PowerSteering>
+        <ClimateControl>Климат-контроль многозонный</ClimateControl>
+        <Interior>Ткань</Interior>
+        <InteriorOptions/>
+        <Heating/>
+        <PowerWindows>Передние и задние</PowerWindows>
+        <ElectricDrive>
+            <Option>Зеркал</Option>
+        </ElectricDrive>
+        <MemorySettings/>
+        <DrivingAssistance>
+            <Option>Датчик дождя</Option>
+            <Option>Датчик света</Option>
+            <Option>Бортовой компьютер</Option>
+        </DrivingAssistance>
+        <AntitheftSystem>
+            <Option>Центральный замок</Option>
+            <Option>Иммобилайзер</Option>
+        </AntitheftSystem>
+        <Airbags>
+            <Option>Фронтальные</Option>
+        </Airbags>
+        <ActiveSafety>
+            <Option>Антиблокировка тормозов</Option>
+            <Option>Антипробуксовка</Option>
+        </ActiveSafety>
+        <Multimedia>
+            <Option>CD/DVD/Blu-ray</Option>
+            <Option>MP3</Option>
+            <Option>Радио</Option>
+            <Option>USB</Option>
+            <Option>AUX</Option>
+        </Multimedia>
+        <Wheels>16</Wheels>
+        <Owners>1</Owners>
+        <Images>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/90ca577b-b087-11e6-80de-00155d090500_VSE_0886.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/90ca577b-b087-11e6-80de-00155d090500_VSE_0639.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/90ca577b-b087-11e6-80de-00155d090500_VSE_0633.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/90ca577b-b087-11e6-80de-00155d090500_VSE_0637.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/90ca577b-b087-11e6-80de-00155d090500_VSE_0628.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/90ca577b-b087-11e6-80de-00155d090500_VSE_0627.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/90ca577b-b087-11e6-80de-00155d090500_VSE_0626.jpg"/>
+        </Images>
+    </Ad>
+    <Ad>
+        <id>a77fe638-e54e-11e6-80ea-00155d090500</id>
+        <Price>675000</Price>
+        <Kilometrage>172162</Kilometrage>
+        <Accident>Не битый</Accident>
+        <Make>BMW</Make>
+        <Model>X1</Model>
+        <Year>2010</Year>
+        <BodyType>Внедорожник</BodyType>
+        <Doors>5</Doors>
+        <Color>Черный</Color>
+        <FuelType>Бензин</FuelType>
+        <EngineSize>2</EngineSize>
+        <Power>150</Power>
+        <Transmission>Автомат</Transmission>
+        <DriveType>Задний</DriveType>
+        <WheelType>Левый</WheelType>
+        <PowerSteering>Гидро-</PowerSteering>
+        <ClimateControl>Климат-контроль многозонный</ClimateControl>
+        <Interior>Ткань</Interior>
+        <InteriorOptions/>
+        <Heating>
+            <Option>Передних сидений</Option>
+            <Option>Зеркал</Option>
+            <Option>Заднего стекла</Option>
+            <Option>Руля</Option>
+        </Heating>
+        <PowerWindows>Передние и задние</PowerWindows>
+        <ElectricDrive>
+            <Option>Зеркал</Option>
+        </ElectricDrive>
+        <MemorySettings/>
+        <DrivingAssistance>
+            <Option>Датчик дождя</Option>
+            <Option>Датчик света</Option>
+            <Option>Бортовой компьютер</Option>
+        </DrivingAssistance>
+        <AntitheftSystem>
+            <Option>Центральный замок</Option>
+        </AntitheftSystem>
+        <Airbags>
+            <Option>Боковые передние</Option>
+        </Airbags>
+        <ActiveSafety>
+            <Option>Антиблокировка тормозов</Option>
+            <Option>Антипробуксовка</Option>
+            <Option>Курсовая устойчивость</Option>
+            <Option>Распред. тормозных усилий</Option>
+            <Option>Экстренное торможение</Option>
+        </ActiveSafety>
+        <Multimedia>
+            <Option>CD/DVD/Blu-ray</Option>
+            <Option>MP3</Option>
+            <Option>Радио</Option>
+            <Option>USB</Option>
+            <Option>AUX</Option>
+        </Multimedia>
+        <Wheels>16</Wheels>
+        <Owners>3</Owners>
+        <Images>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/a77fe638-e54e-11e6-80ea-00155d090500_BKV_8784.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/a77fe638-e54e-11e6-80ea-00155d090500_BKV_8785.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/a77fe638-e54e-11e6-80ea-00155d090500_BKV_8796.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/a77fe638-e54e-11e6-80ea-00155d090500_BKV_8797.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/a77fe638-e54e-11e6-80ea-00155d090500_BKV_8798.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/a77fe638-e54e-11e6-80ea-00155d090500_BKV_8783.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/a77fe638-e54e-11e6-80ea-00155d090500_BKV_8792.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/a77fe638-e54e-11e6-80ea-00155d090500_BKV_8793.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/a77fe638-e54e-11e6-80ea-00155d090500_BKV_8786.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/a77fe638-e54e-11e6-80ea-00155d090500_16.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/a77fe638-e54e-11e6-80ea-00155d090500_BKV_8794.jpg"/>
+        </Images>
+    </Ad>
+    <Ad>
+        <id>797fbce6-f1d4-11e6-80ea-00155d090500</id>
+        <Price>1599000</Price>
+        <Kilometrage>5810</Kilometrage>
+        <Accident>Не битый</Accident>
+        <Make>Hyundai</Make>
+        <Model>Tucson</Model>
+        <Year>2016</Year>
+        <BodyType>Внедорожник</BodyType>
+        <Doors>5</Doors>
+        <Color>Белый</Color>
+        <FuelType>Бензин</FuelType>
+        <EngineSize>1.6</EngineSize>
+        <Power>177</Power>
+        <Transmission>Робот</Transmission>
+        <DriveType>Полный</DriveType>
+        <WheelType>Левый</WheelType>
+        <PowerSteering>Гидро-</PowerSteering>
+        <ClimateControl>Климат-контроль многозонный</ClimateControl>
+        <Interior>Кожа</Interior>
+        <InteriorOptions>
+            <Option>Кожаный руль</Option>
+        </InteriorOptions>
+        <Heating>
+            <Option>Зеркал</Option>
+            <Option>Заднего стекла</Option>
+        </Heating>
+        <PowerWindows>Передние и задние</PowerWindows>
+        <ElectricDrive>
+            <Option>Зеркал</Option>
+        </ElectricDrive>
+        <MemorySettings/>
+        <DrivingAssistance>
+            <Option>Датчик дождя</Option>
+            <Option>Датчик света</Option>
+            <Option>Круиз-контроль</Option>
+            <Option>Бортовой компьютер</Option>
+        </DrivingAssistance>
+        <AntitheftSystem>
+            <Option>Центральный замок</Option>
+            <Option>Иммобилайзер</Option>
+        </AntitheftSystem>
+        <Airbags>
+            <Option>Боковые передние</Option>
+        </Airbags>
+        <ActiveSafety>
+            <Option>Антиблокировка тормозов</Option>
+            <Option>Антипробуксовка</Option>
+        </ActiveSafety>
+        <Multimedia>
+            <Option>CD/DVD/Blu-ray</Option>
+            <Option>MP3</Option>
+            <Option>Радио</Option>
+            <Option>USB</Option>
+            <Option>AUX</Option>
+        </Multimedia>
+        <Wheels>17</Wheels>
+        <Owners>1</Owners>
+        <Images>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/797fbce6-f1d4-11e6-80ea-00155d090500_IMG_7319.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/797fbce6-f1d4-11e6-80ea-00155d090500_IMG_7326.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/797fbce6-f1d4-11e6-80ea-00155d090500_IMG_7325.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/797fbce6-f1d4-11e6-80ea-00155d090500_IMG_7324.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/797fbce6-f1d4-11e6-80ea-00155d090500_IMG_7322.jpg"/>
+        </Images>
+    </Ad>
+    <Ad>
+        <id>dc01ee30-07e4-11e7-80ea-00155d090500</id>
+        <Price>469000</Price>
+        <Kilometrage>66283</Kilometrage>
+        <Accident>Не битый</Accident>
+        <Make>Kia</Make>
+        <Model>cee'd</Model>
+        <Year>2013</Year>
+        <BodyType>Хетчбэк</BodyType>
+        <Doors>5</Doors>
+        <Color>Коричневый</Color>
+        <FuelType>Бензин</FuelType>
+        <EngineSize>1.4</EngineSize>
+        <Power>100</Power>
+        <Transmission>Механика</Transmission>
+        <DriveType>Передний</DriveType>
+        <WheelType>Левый</WheelType>
+        <PowerSteering>Гидро-</PowerSteering>
+        <ClimateControl>Кондиционер</ClimateControl>
+        <Interior>Ткань</Interior>
+        <InteriorOptions/>
+        <Heating/>
+        <PowerWindows>Только передние</PowerWindows>
+        <ElectricDrive/>
+        <MemorySettings/>
+        <DrivingAssistance/>
+        <AntitheftSystem>
+            <Option>Центральный замок</Option>
+        </AntitheftSystem>
+        <Airbags>
+            <Option>Фронтальные</Option>
+        </Airbags>
+        <ActiveSafety>
+            <Option>Антиблокировка тормозов</Option>
+        </ActiveSafety>
+        <Multimedia>
+            <Option>CD/DVD/Blu-ray</Option>
+            <Option>MP3</Option>
+            <Option>Радио</Option>
+            <Option>USB</Option>
+            <Option>AUX</Option>
+        </Multimedia>
+        <Wheels>15</Wheels>
+        <Owners>2</Owners>
+        <Images>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/dc01ee30-07e4-11e7-80ea-00155d090500_VSE_4349.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/dc01ee30-07e4-11e7-80ea-00155d090500_VSE_4351.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/dc01ee30-07e4-11e7-80ea-00155d090500_VSE_4360.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/dc01ee30-07e4-11e7-80ea-00155d090500_VSE_4361.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/dc01ee30-07e4-11e7-80ea-00155d090500_VSE_4362.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/dc01ee30-07e4-11e7-80ea-00155d090500_VSE_4350.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/dc01ee30-07e4-11e7-80ea-00155d090500_VSE_4356.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/dc01ee30-07e4-11e7-80ea-00155d090500_VSE_4359.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/dc01ee30-07e4-11e7-80ea-00155d090500_VSE_4358.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/dc01ee30-07e4-11e7-80ea-00155d090500_9.jpeg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/dc01ee30-07e4-11e7-80ea-00155d090500_VSE_4357.jpg"/>
+        </Images>
+    </Ad>
+    <Ad>
+        <id>cc92bf45-11f3-11e7-80eb-00155d090500</id>
+        <Price>1285000</Price>
+        <Kilometrage>19370</Kilometrage>
+        <Accident>Не битый</Accident>
+        <Make>Ford</Make>
+        <Model>Mondeo</Model>
+        <Year>2017</Year>
+        <BodyType>Седан</BodyType>
+        <Doors>4</Doors>
+        <Color>Черный</Color>
+        <FuelType>Бензин</FuelType>
+        <EngineSize>2.5</EngineSize>
+        <Power>149</Power>
+        <Transmission>Автомат</Transmission>
+        <DriveType>Передний</DriveType>
+        <WheelType>Левый</WheelType>
+        <PowerSteering>Гидро-</PowerSteering>
+        <ClimateControl>Климат-контроль многозонный</ClimateControl>
+        <Interior>Комбинированный</Interior>
+        <InteriorOptions/>
+        <Heating>
+            <Option>Передних сидений</Option>
+            <Option>Зеркал</Option>
+            <Option>Заднего стекла</Option>
+        </Heating>
+        <PowerWindows>Передние и задние</PowerWindows>
+        <ElectricDrive>
+            <Option>Передних сидений</Option>
+            <Option>Зеркал</Option>
+        </ElectricDrive>
+        <MemorySettings>
+            <Option>Передних сидений</Option>
+            <Option>Зеркал</Option>
+        </MemorySettings>
+        <DrivingAssistance>
+            <Option>Датчик дождя</Option>
+            <Option>Датчик света</Option>
+            <Option>Круиз-контроль</Option>
+            <Option>Бортовой компьютер</Option>
+        </DrivingAssistance>
+        <AntitheftSystem>
+            <Option>Центральный замок</Option>
+        </AntitheftSystem>
+        <Airbags>
+            <Option>Боковые передние</Option>
+        </Airbags>
+        <ActiveSafety>
+            <Option>Антиблокировка тормозов</Option>
+            <Option>Курсовая устойчивость</Option>
+            <Option>Распред. тормозных усилий</Option>
+            <Option>Экстренное торможение</Option>
+        </ActiveSafety>
+        <Multimedia>
+            <Option>CD/DVD/Blu-ray</Option>
+            <Option>MP3</Option>
+            <Option>Радио</Option>
+            <Option>USB</Option>
+            <Option>AUX</Option>
+        </Multimedia>
+        <Wheels>17</Wheels>
+        <Owners>1</Owners>
+        <Images>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/cc92bf45-11f3-11e7-80eb-00155d090500_IMG_7511.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/cc92bf45-11f3-11e7-80eb-00155d090500_IMG_7512.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/cc92bf45-11f3-11e7-80eb-00155d090500_IMG_7521.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/cc92bf45-11f3-11e7-80eb-00155d090500_IMG_7522.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/cc92bf45-11f3-11e7-80eb-00155d090500_IMG_7523.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/cc92bf45-11f3-11e7-80eb-00155d090500_IMG_7510.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/cc92bf45-11f3-11e7-80eb-00155d090500_IMG_7517.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/cc92bf45-11f3-11e7-80eb-00155d090500_IMG_7519.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/cc92bf45-11f3-11e7-80eb-00155d090500_IMG_7513.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/cc92bf45-11f3-11e7-80eb-00155d090500_1.jpeg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/cc92bf45-11f3-11e7-80eb-00155d090500_IMG_7520.jpg"/>
+        </Images>
+    </Ad>
+    <Ad>
+        <id>5da6562f-16bc-11e7-80eb-00155d090500</id>
+        <Price>495000</Price>
+        <Kilometrage>111892</Kilometrage>
+        <Accident>Не битый</Accident>
+        <Make>Ford</Make>
+        <Model>Mondeo</Model>
+        <Year>2011</Year>
+        <BodyType>Седан</BodyType>
+        <Doors>4</Doors>
+        <Color>Серебряный</Color>
+        <FuelType>Бензин</FuelType>
+        <EngineSize>2</EngineSize>
+        <Power>145</Power>
+        <Transmission>Механика</Transmission>
+        <DriveType>Передний</DriveType>
+        <WheelType>Левый</WheelType>
+        <PowerSteering>Гидро-</PowerSteering>
+        <ClimateControl>Климат-контроль многозонный</ClimateControl>
+        <Interior>Велюр</Interior>
+        <InteriorOptions/>
+        <Heating/>
+        <PowerWindows>Передние и задние</PowerWindows>
+        <ElectricDrive>
+            <Option>Зеркал</Option>
+        </ElectricDrive>
+        <MemorySettings/>
+        <DrivingAssistance>
+            <Option>Датчик дождя</Option>
+            <Option>Датчик света</Option>
+            <Option>Бортовой компьютер</Option>
+        </DrivingAssistance>
+        <AntitheftSystem>
+            <Option>Центральный замок</Option>
+            <Option>Иммобилайзер</Option>
+        </AntitheftSystem>
+        <Airbags>
+            <Option>Боковые передние</Option>
+        </Airbags>
+        <ActiveSafety>
+            <Option>Антиблокировка тормозов</Option>
+            <Option>Курсовая устойчивость</Option>
+            <Option>Распред. тормозных усилий</Option>
+            <Option>Экстренное торможение</Option>
+        </ActiveSafety>
+        <Multimedia>
+            <Option>CD/DVD/Blu-ray</Option>
+            <Option>MP3</Option>
+            <Option>Радио</Option>
+            <Option>USB</Option>
+            <Option>AUX</Option>
+        </Multimedia>
+        <Wheels>16</Wheels>
+        <Owners>1</Owners>
+        <Images>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/5da6562f-16bc-11e7-80eb-00155d090500_IMG_7343.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/5da6562f-16bc-11e7-80eb-00155d090500_IMG_7344.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/5da6562f-16bc-11e7-80eb-00155d090500_IMG_7353.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/5da6562f-16bc-11e7-80eb-00155d090500_IMG_7354.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/5da6562f-16bc-11e7-80eb-00155d090500_IMG_7355.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/5da6562f-16bc-11e7-80eb-00155d090500_IMG_7342.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/5da6562f-16bc-11e7-80eb-00155d090500_IMG_7350.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/5da6562f-16bc-11e7-80eb-00155d090500_IMG_7352.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/5da6562f-16bc-11e7-80eb-00155d090500_IMG_7345.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/5da6562f-16bc-11e7-80eb-00155d090500_1.jpeg"/>
+        </Images>
+    </Ad>
+    <Ad>
+        <id>b58f9fc7-28fa-11e7-80eb-00155d090500</id>
+        <Price>590000</Price>
+        <Kilometrage>130072</Kilometrage>
+        <Accident>Не битый</Accident>
+        <Make>Toyota</Make>
+        <Model>Corolla</Model>
+        <Year>2011</Year>
+        <BodyType>Седан</BodyType>
+        <Doors>4</Doors>
+        <Color>Серебряный</Color>
+        <FuelType>Бензин</FuelType>
+        <EngineSize>1.6</EngineSize>
+        <Power>124</Power>
+        <Transmission>Механика</Transmission>
+        <DriveType>Передний</DriveType>
+        <WheelType>Левый</WheelType>
+        <PowerSteering>Гидро-</PowerSteering>
+        <ClimateControl>Кондиционер</ClimateControl>
+        <Interior>Ткань</Interior>
+        <InteriorOptions/>
+        <Heating>
+            <Option>Передних сидений</Option>
+            <Option>Зеркал</Option>
+            <Option>Заднего стекла</Option>
+        </Heating>
+        <PowerWindows>Только передние</PowerWindows>
+        <ElectricDrive>
+            <Option>Зеркал</Option>
+        </ElectricDrive>
+        <MemorySettings/>
+        <DrivingAssistance>
+            <Option>Бортовой компьютер</Option>
+        </DrivingAssistance>
+        <AntitheftSystem>
+            <Option>Центральный замок</Option>
+            <Option>Иммобилайзер</Option>
+        </AntitheftSystem>
+        <Airbags>
+            <Option>Боковые передние</Option>
+        </Airbags>
+        <ActiveSafety>
+            <Option>Антиблокировка тормозов</Option>
+        </ActiveSafety>
+        <Multimedia>
+            <Option>CD/DVD/Blu-ray</Option>
+            <Option>MP3</Option>
+            <Option>Радио</Option>
+            <Option>USB</Option>
+            <Option>AUX</Option>
+        </Multimedia>
+        <Owners>2</Owners>
+        <Images>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/b58f9fc7-28fa-11e7-80eb-00155d090500_IMG_7389.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/b58f9fc7-28fa-11e7-80eb-00155d090500_IMG_7390.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/b58f9fc7-28fa-11e7-80eb-00155d090500_IMG_7398.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/b58f9fc7-28fa-11e7-80eb-00155d090500_IMG_7399.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/b58f9fc7-28fa-11e7-80eb-00155d090500_IMG_7400.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/b58f9fc7-28fa-11e7-80eb-00155d090500_IMG_7388.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/b58f9fc7-28fa-11e7-80eb-00155d090500_IMG_7395.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/b58f9fc7-28fa-11e7-80eb-00155d090500_IMG_7397.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/b58f9fc7-28fa-11e7-80eb-00155d090500_IMG_7391.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/b58f9fc7-28fa-11e7-80eb-00155d090500_1.jpeg"/>
+        </Images>
+    </Ad>
+    <Ad>
+        <id>36d50303-025b-4680-b7bd-628f018a21f4</id>
+        <Price>1369000</Price>
+        <Kilometrage>138184</Kilometrage>
+        <Accident>Не битый</Accident>
+        <Make>BMW</Make>
+        <Model>X5</Model>
+        <Year>2012</Year>
+        <BodyType>Внедорожник</BodyType>
+        <Color>Серебряный</Color>
+        <FuelType>Дизель</FuelType>
+        <EngineSize>3</EngineSize>
+        <Power>269</Power>
+        <Transmission>Автомат</Transmission>
+        <DriveType>Полный</DriveType>
+        <WheelType>Левый</WheelType>
+        <PowerSteering>Гидро-</PowerSteering>
+        <ClimateControl>Климат-контроль многозонный</ClimateControl>
+        <Interior>Кожа</Interior>
+        <InteriorOptions>
+            <Option>Кожаный руль</Option>
+            <Option>Люк</Option>
+        </InteriorOptions>
+        <Heating>
+            <Option>Передних сидений</Option>
+            <Option>Зеркал</Option>
+            <Option>Заднего стекла</Option>
+        </Heating>
+        <PowerWindows>Передние и задние</PowerWindows>
+        <ElectricDrive>
+            <Option>Передних сидений</Option>
+            <Option>Зеркал</Option>
+        </ElectricDrive>
+        <MemorySettings>
+            <Option>Передних сидений</Option>
+            <Option>Зеркал</Option>
+        </MemorySettings>
+        <DrivingAssistance>
+            <Option>Датчик дождя</Option>
+            <Option>Датчик света</Option>
+            <Option>Парктроник задний</Option>
+            <Option>Бортовой компьютер</Option>
+        </DrivingAssistance>
+        <AntitheftSystem>
+            <Option>Центральный замок</Option>
+            <Option>Иммобилайзер</Option>
+        </AntitheftSystem>
+        <Airbags>
+            <Option>Боковые передние</Option>
+        </Airbags>
+        <ActiveSafety>
+            <Option>Антиблокировка тормозов</Option>
+            <Option>Антипробуксовка</Option>
+            <Option>Курсовая устойчивость</Option>
+            <Option>Распред. тормозных усилий</Option>
+            <Option>Экстренное торможение</Option>
+        </ActiveSafety>
+        <Multimedia>
+            <Option>CD/DVD/Blu-ray</Option>
+            <Option>MP3</Option>
+            <Option>Радио</Option>
+            <Option>TV</Option>
+            <Option>Видео</Option>
+            <Option>USB</Option>
+            <Option>AUX</Option>
+            <Option>Bluetooth</Option>
+        </Multimedia>
+        <Lights>Ксеноновые</Lights>
+        <Wheels>21</Wheels>
+        <Owners>1</Owners>
+        <Images>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/069c3cc5-3a0a-11e7-80ed-00155d090500_IMG_7819.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/069c3cc5-3a0a-11e7-80ed-00155d090500_IMG_7820.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/069c3cc5-3a0a-11e7-80ed-00155d090500_IMG_7841.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/069c3cc5-3a0a-11e7-80ed-00155d090500_IMG_7843.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/069c3cc5-3a0a-11e7-80ed-00155d090500_IMG_7844.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/069c3cc5-3a0a-11e7-80ed-00155d090500_IMG_7817.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/069c3cc5-3a0a-11e7-80ed-00155d090500_IMG_7827.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/069c3cc5-3a0a-11e7-80ed-00155d090500_IMG_7835.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/069c3cc5-3a0a-11e7-80ed-00155d090500_IMG_7821.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/069c3cc5-3a0a-11e7-80ed-00155d090500_1.jpeg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/069c3cc5-3a0a-11e7-80ed-00155d090500_IMG_7831.jpg"/>
+        </Images>
+    </Ad>
+    <Ad>
+        <id>765e7309-500e-11e7-80ed-00155d090500</id>
+        <Price>775000</Price>
+        <Kilometrage>24502</Kilometrage>
+        <Accident>Не битый</Accident>
+        <Make>Hyundai</Make>
+        <Model>Solaris</Model>
+        <Year>2017</Year>
+        <BodyType>Седан</BodyType>
+        <Doors>4</Doors>
+        <Color>Черный</Color>
+        <FuelType>Бензин</FuelType>
+        <EngineSize>1.6</EngineSize>
+        <Power>123</Power>
+        <Transmission>Автомат</Transmission>
+        <DriveType>Передний</DriveType>
+        <WheelType>Левый</WheelType>
+        <PowerSteering>Гидро-</PowerSteering>
+        <ClimateControl>Кондиционер</ClimateControl>
+        <Interior>Ткань</Interior>
+        <InteriorOptions/>
+        <Heating>
+            <Option>Передних сидений</Option>
+            <Option>Зеркал</Option>
+            <Option>Заднего стекла</Option>
+            <Option>Руля</Option>
+        </Heating>
+        <PowerWindows>Передние и задние</PowerWindows>
+        <ElectricDrive>
+            <Option>Зеркал</Option>
+        </ElectricDrive>
+        <MemorySettings/>
+        <DrivingAssistance>
+            <Option>Бортовой компьютер</Option>
+        </DrivingAssistance>
+        <AntitheftSystem>
+            <Option>Центральный замок</Option>
+            <Option>Иммобилайзер</Option>
+        </AntitheftSystem>
+        <Airbags>
+            <Option>Фронтальные</Option>
+        </Airbags>
+        <ActiveSafety>
+            <Option>Антиблокировка тормозов</Option>
+            <Option>Курсовая устойчивость</Option>
+            <Option>Распред. тормозных усилий</Option>
+            <Option>Экстренное торможение</Option>
+        </ActiveSafety>
+        <Multimedia>
+            <Option>CD/DVD/Blu-ray</Option>
+            <Option>MP3</Option>
+            <Option>Радио</Option>
+            <Option>USB</Option>
+            <Option>AUX</Option>
+        </Multimedia>
+        <Owners>1</Owners>
+        <Images>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/765e7309-500e-11e7-80ed-00155d090500_BKV_7753.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/765e7309-500e-11e7-80ed-00155d090500_BKV_7754.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/765e7309-500e-11e7-80ed-00155d090500_BKV_7764.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/765e7309-500e-11e7-80ed-00155d090500_BKV_7765.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/765e7309-500e-11e7-80ed-00155d090500_BKV_7766.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/765e7309-500e-11e7-80ed-00155d090500_BKV_7752.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/765e7309-500e-11e7-80ed-00155d090500_BKV_7761.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/765e7309-500e-11e7-80ed-00155d090500_BKV_7762.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/765e7309-500e-11e7-80ed-00155d090500_BKV_7755.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/765e7309-500e-11e7-80ed-00155d090500_2.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/765e7309-500e-11e7-80ed-00155d090500_BKV_7763.jpg"/>
+        </Images>
+    </Ad>
+    <Ad>
+        <id>4d22e732-c4d1-487b-b4d3-b76ae7fea927</id>
+        <Price>1049000</Price>
+        <Kilometrage>173294</Kilometrage>
+        <Accident>Не битый</Accident>
+        <Make>Mitsubishi</Make>
+        <Model>Pajero</Model>
+        <Year>2011</Year>
+        <BodyType>Внедорожник</BodyType>
+        <Doors>5</Doors>
+        <Color>Черный</Color>
+        <FuelType>Бензин</FuelType>
+        <EngineSize>3</EngineSize>
+        <Power>178</Power>
+        <Transmission>Автомат</Transmission>
+        <DriveType>Полный</DriveType>
+        <WheelType>Левый</WheelType>
+        <PowerSteering>Гидро-</PowerSteering>
+        <ClimateControl>Климат-контроль многозонный</ClimateControl>
+        <Interior>Кожа</Interior>
+        <InteriorOptions>
+            <Option>Кожаный руль</Option>
+        </InteriorOptions>
+        <Heating>
+            <Option>Передних сидений</Option>
+            <Option>Зеркал</Option>
+            <Option>Заднего стекла</Option>
+        </Heating>
+        <PowerWindows>Передние и задние</PowerWindows>
+        <ElectricDrive>
+            <Option>Зеркал</Option>
+        </ElectricDrive>
+        <MemorySettings/>
+        <DrivingAssistance>
+            <Option>Датчик света</Option>
+            <Option>Парктроник задний</Option>
+            <Option>Бортовой компьютер</Option>
+        </DrivingAssistance>
+        <AntitheftSystem>
+            <Option>Иммобилайзер</Option>
+        </AntitheftSystem>
+        <Airbags>
+            <Option>Боковые передние</Option>
+        </Airbags>
+        <ActiveSafety>
+            <Option>Антиблокировка тормозов</Option>
+            <Option>Антипробуксовка</Option>
+            <Option>Курсовая устойчивость</Option>
+            <Option>Распред. тормозных усилий</Option>
+            <Option>Экстренное торможение</Option>
+        </ActiveSafety>
+        <Multimedia>
+            <Option>CD/DVD/Blu-ray</Option>
+            <Option>MP3</Option>
+            <Option>Радио</Option>
+            <Option>USB</Option>
+            <Option>AUX</Option>
+        </Multimedia>
+        <Lights>Ксеноновые</Lights>
+        <Wheels>17</Wheels>
+        <Owners>1</Owners>
+        <Images>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/3308bebc-5022-11e7-80ed-00155d090500_IMG_7419.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/3308bebc-5022-11e7-80ed-00155d090500_IMG_7421.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/3308bebc-5022-11e7-80ed-00155d090500_IMG_7431.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/3308bebc-5022-11e7-80ed-00155d090500_IMG_7434.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/3308bebc-5022-11e7-80ed-00155d090500_IMG_7435.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/3308bebc-5022-11e7-80ed-00155d090500_IMG_7429.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/3308bebc-5022-11e7-80ed-00155d090500_IMG_7427.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/3308bebc-5022-11e7-80ed-00155d090500_IMG_7423.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/3308bebc-5022-11e7-80ed-00155d090500_1.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/3308bebc-5022-11e7-80ed-00155d090500_IMG_7430.jpg"/>
+        </Images>
+    </Ad>
+    <Ad>
+        <id>52375b73-570b-11e7-80ed-00155d090500</id>
+        <Price>645000</Price>
+        <Kilometrage>149323</Kilometrage>
+        <Accident>Не битый</Accident>
+        <Make>Nissan</Make>
+        <Model>Teana</Model>
+        <Year>2011</Year>
+        <BodyType>Седан</BodyType>
+        <Doors>4</Doors>
+        <Color>Серебряный</Color>
+        <FuelType>Бензин</FuelType>
+        <EngineSize>2.5</EngineSize>
+        <Power>167</Power>
+        <Transmission>Вариатор</Transmission>
+        <DriveType>Полный</DriveType>
+        <WheelType>Левый</WheelType>
+        <PowerSteering>Электро-</PowerSteering>
+        <ClimateControl>Климат-контроль многозонный</ClimateControl>
+        <Interior>Кожа</Interior>
+        <InteriorOptions>
+            <Option>Кожаный руль</Option>
+        </InteriorOptions>
+        <Heating>
+            <Option>Передних сидений</Option>
+        </Heating>
+        <PowerWindows>Передние и задние</PowerWindows>
+        <ElectricDrive>
+            <Option>Передних сидений</Option>
+            <Option>Зеркал</Option>
+        </ElectricDrive>
+        <MemorySettings/>
+        <DrivingAssistance>
+            <Option>Датчик света</Option>
+            <Option>Круиз-контроль</Option>
+            <Option>Бортовой компьютер</Option>
+        </DrivingAssistance>
+        <AntitheftSystem>
+            <Option>Центральный замок</Option>
+            <Option>Иммобилайзер</Option>
+        </AntitheftSystem>
+        <Airbags>
+            <Option>Боковые передние</Option>
+        </Airbags>
+        <ActiveSafety>
+            <Option>Антиблокировка тормозов</Option>
+            <Option>Курсовая устойчивость</Option>
+            <Option>Распред. тормозных усилий</Option>
+            <Option>Экстренное торможение</Option>
+        </ActiveSafety>
+        <Multimedia>
+            <Option>CD/DVD/Blu-ray</Option>
+            <Option>MP3</Option>
+            <Option>Радио</Option>
+            <Option>USB</Option>
+            <Option>AUX</Option>
+        </Multimedia>
+        <Lights>Ксеноновые</Lights>
+        <Wheels>17</Wheels>
+        <Owners>3</Owners>
+        <Images>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/52375b73-570b-11e7-80ed-00155d090500_BKV_6263.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/52375b73-570b-11e7-80ed-00155d090500_BKV_6264.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/52375b73-570b-11e7-80ed-00155d090500_BKV_6275.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/52375b73-570b-11e7-80ed-00155d090500_BKV_6276.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/52375b73-570b-11e7-80ed-00155d090500_BKV_6277.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/52375b73-570b-11e7-80ed-00155d090500_BKV_6262.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/52375b73-570b-11e7-80ed-00155d090500_BKV_6271.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/52375b73-570b-11e7-80ed-00155d090500_BKV_6272.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/52375b73-570b-11e7-80ed-00155d090500_BKV_6266.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/52375b73-570b-11e7-80ed-00155d090500_6.jpg"/>
+        </Images>
+    </Ad>
+    <Ad>
+        <id>ddf47d29-6e99-11e7-80ee-00155d090500</id>
+        <Price>299000</Price>
+        <Kilometrage>91463</Kilometrage>
+        <Accident>Не битый</Accident>
+        <Make>Lifan</Make>
+        <Model>Solano</Model>
+        <Year>2015</Year>
+        <BodyType>Седан</BodyType>
+        <Doors>4</Doors>
+        <Color>Черный</Color>
+        <FuelType>Бензин</FuelType>
+        <EngineSize>1.5</EngineSize>
+        <Power>100</Power>
+        <Transmission>Механика</Transmission>
+        <DriveType>Передний</DriveType>
+        <WheelType>Левый</WheelType>
+        <ClimateControl>Кондиционер</ClimateControl>
+        <Interior>Ткань</Interior>
+        <InteriorOptions/>
+        <Heating/>
+        <PowerWindows>Передние и задние</PowerWindows>
+        <ElectricDrive>
+            <Option>Зеркал</Option>
+        </ElectricDrive>
+        <MemorySettings/>
+        <DrivingAssistance>
+            <Option>Бортовой компьютер</Option>
+        </DrivingAssistance>
+        <AntitheftSystem>
+            <Option>Центральный замок</Option>
+            <Option>Иммобилайзер</Option>
+        </AntitheftSystem>
+        <Airbags>
+            <Option>Фронтальные</Option>
+        </Airbags>
+        <ActiveSafety>
+            <Option>Антиблокировка тормозов</Option>
+        </ActiveSafety>
+        <Multimedia>
+            <Option>CD/DVD/Blu-ray</Option>
+            <Option>MP3</Option>
+            <Option>Радио</Option>
+            <Option>USB</Option>
+            <Option>AUX</Option>
+        </Multimedia>
+        <Owners>3</Owners>
+        <Images>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/ddf47d29-6e99-11e7-80ee-00155d090500_IMG_7477.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/ddf47d29-6e99-11e7-80ee-00155d090500_IMG_7479.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/ddf47d29-6e99-11e7-80ee-00155d090500_IMG_7484.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/ddf47d29-6e99-11e7-80ee-00155d090500_IMG_7486.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/ddf47d29-6e99-11e7-80ee-00155d090500_IMG_7487.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/ddf47d29-6e99-11e7-80ee-00155d090500_IMG_7478.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/ddf47d29-6e99-11e7-80ee-00155d090500_IMG_7482.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/ddf47d29-6e99-11e7-80ee-00155d090500_IMG_7475.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/ddf47d29-6e99-11e7-80ee-00155d090500_1.jpeg"/>
+        </Images>
+    </Ad>
+    <Ad>
+        <id>ea5f6b31-729f-11e7-80ee-00155d090500</id>
+        <Price>565000</Price>
+        <Kilometrage>126210</Kilometrage>
+        <Accident>Не битый</Accident>
+        <Make>Volkswagen</Make>
+        <Model>Passat CC</Model>
+        <Year>2010</Year>
+        <BodyType>Седан</BodyType>
+        <Doors>4</Doors>
+        <Color>Черный</Color>
+        <FuelType>Бензин</FuelType>
+        <EngineSize>1.8</EngineSize>
+        <Power>152</Power>
+        <Transmission>Робот</Transmission>
+        <DriveType>Передний</DriveType>
+        <WheelType>Левый</WheelType>
+        <PowerSteering>Гидро-</PowerSteering>
+        <ClimateControl>Климат-контроль многозонный</ClimateControl>
+        <Interior>Кожа</Interior>
+        <InteriorOptions>
+            <Option>Кожаный руль</Option>
+        </InteriorOptions>
+        <Heating>
+            <Option>Передних сидений</Option>
+        </Heating>
+        <PowerWindows>Передние и задние</PowerWindows>
+        <ElectricDrive>
+            <Option>Передних сидений</Option>
+            <Option>Зеркал</Option>
+        </ElectricDrive>
+        <MemorySettings/>
+        <DrivingAssistance>
+            <Option>Датчик дождя</Option>
+            <Option>Датчик света</Option>
+            <Option>Круиз-контроль</Option>
+            <Option>Бортовой компьютер</Option>
+        </DrivingAssistance>
+        <AntitheftSystem>
+            <Option>Иммобилайзер</Option>
+        </AntitheftSystem>
+        <Airbags>
+            <Option>Боковые передние</Option>
+        </Airbags>
+        <ActiveSafety>
+            <Option>Антиблокировка тормозов</Option>
+        </ActiveSafety>
+        <Multimedia>
+            <Option>CD/DVD/Blu-ray</Option>
+            <Option>MP3</Option>
+            <Option>Радио</Option>
+            <Option>USB</Option>
+            <Option>AUX</Option>
+        </Multimedia>
+        <Wheels>16</Wheels>
+        <Owners>3</Owners>
+        <Images>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/ea5f6b31-729f-11e7-80ee-00155d090500_VSE_9536.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/ea5f6b31-729f-11e7-80ee-00155d090500_VSE_9535.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/ea5f6b31-729f-11e7-80ee-00155d090500_VSE_9538.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/ea5f6b31-729f-11e7-80ee-00155d090500_VSE_9539.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/ea5f6b31-729f-11e7-80ee-00155d090500_VSE_9540.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/ea5f6b31-729f-11e7-80ee-00155d090500_VSE_9537.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/ea5f6b31-729f-11e7-80ee-00155d090500_VSE_9534.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/ea5f6b31-729f-11e7-80ee-00155d090500_VSE_9533.jpg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/ea5f6b31-729f-11e7-80ee-00155d090500_2.jpeg"/>
+            <Image url="http://feed.maximum-auto.ru/foto_ford/ea5f6b31-729f-11e7-80ee-00155d090500_VSE_9528.jpg"/>
+        </Images>
+    </Ad>
+</Ads>
